@@ -1,0 +1,74 @@
+[
+  {
+    "file": "avatar-FA-5e91f282.svg",
+    "source": "https://api.dicebear.com/9.x/initials/svg?seed=FA"
+  },
+  {
+    "file": "avatar-FB-33d0c24f.svg",
+    "source": "https://api.dicebear.com/9.x/initials/svg?seed=FB"
+  },
+  {
+    "file": "avatar-FC-b3f45695.svg",
+    "source": "https://api.dicebear.com/9.x/initials/svg?seed=FC"
+  },
+  {
+    "file": "sample-default.jpg",
+    "source": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=80&h=80&fit=crop"
+  },
+  {
+    "file": "vuejs-31fefdf4.png",
+    "source": "https://github.com/vuejs.png"
+  },
+  {
+    "file": "avatar-user-4a5c9666.svg",
+    "source": "https://api.dicebear.com/9.x/initials/svg?seed=user"
+  },
+  {
+    "file": "avatar-admin-87b27ea7.svg",
+    "source": "https://api.dicebear.com/9.x/bottts-neutral/svg?seed=admin"
+  },
+  {
+    "file": "logo-3b08c630.svg",
+    "source": "https://inhiblabcore.github.io/docs/hooks/logo.svg"
+  },
+  {
+    "file": "mini-logo-a3c17e32.png",
+    "source": "https://www.vform666.com/mini-logo.png"
+  },
+  {
+    "file": "logo-2d94e942.png",
+    "source": "https://form-create.com/logo.png"
+  },
+  {
+    "file": "vexip-ui-a29a0cd8.png",
+    "source": "https://www.vexipui.com/vexip-ui.png"
+  },
+  {
+    "file": "favicon-41f9bcea.ico",
+    "source": "https://www.mineadmin.com/favicon.ico"
+  },
+  {
+    "file": "antdv-next-0e4b5412.svg",
+    "source": "https://www.antdv-next.com/antdv-next.svg"
+  },
+  {
+    "file": "GsahtuIZ9XOg5jr-5689d914.png",
+    "source": "https://s2.loli.net/2024/04/26/GsahtuIZ9XOg5jr.png"
+  },
+  {
+    "file": "avatar-test-b1c87a37.svg",
+    "source": "https://api.dicebear.com/9.x/bottts-neutral/svg?seed=test"
+  },
+  {
+    "file": "sample-1.jpg",
+    "source": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=80&h=80&fit=crop"
+  },
+  {
+    "file": "sample-2.jpg",
+    "source": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=80&h=80&fit=crop"
+  },
+  {
+    "file": "sample-3.jpg",
+    "source": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=80&h=80&fit=crop"
+  }
+]

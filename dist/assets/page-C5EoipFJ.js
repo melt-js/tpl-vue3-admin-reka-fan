@@ -1,0 +1,1 @@
+import{$ as t,O as r,T as n,Y as o,dt as l,k as _}from"./index-BmdFyjjW.js";import{t as s}from"./_plugin-vue_export-helper-K9rsuiWd.js";var d={};function p(u,e){const a=t("FaPageMain");return o(),n("div",null,[_(a,null,{default:l(()=>[...e[0]||(e[0]=[r(" 导航1 ",-1)])]),_:1})])}var i=s(d,[["render",p]]);export{i as default};

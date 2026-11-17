@@ -1,0 +1,1 @@
+import{t as s}from"./img-D4RQwASc-Wqrm4TaK.js";function c(e,a){return async function({scale:n=2}={}){if(!e.value)return;let{width:t,height:i}=e.value.getBoundingClientRect(),r=t/i,{imageUri:l,base64:o}=await s({domElement:e.value,base64:!0,img:!0,scale:n});return{imageUri:l,base64:o,title:a(),width:t,height:i,aspectRatio:r}}}export{c as t};
