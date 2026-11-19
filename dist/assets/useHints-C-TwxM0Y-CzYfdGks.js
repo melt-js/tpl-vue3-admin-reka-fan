@@ -1,0 +1,6 @@
+import{F as c}from"./reactivity.esm-bundler-B9tEGtEp.js";import{ut as d}from"./index-DiDe3wd8.js";var p={noHint:{test:()=>!0,message:["There is no advice available for this component at the moment 🏖️"]},emptyArray:{test:e=>e.length===0,message:["👀 The dataset is empty.","","▶️ Check the documentation or the dataset TS type to see how to populate the dataset for this component."]},singleSeries:{test:e=>e.length===1,message:["👀 The dataset only has a single series. Consider:","","▶️ Using a value display instead of a chart component, or using VueUiKpi."]}};function g({config:e,dataset:f,component:i,rules:n}){if(!n||n?.length===0)return;let t;d(()=>{if(!(c(e)??{}).devHints?.enable){t=void 0;return}let r=c(f);if(!r){t=["",i,"💬 Vue Data UI advice:","---------------------","","❌ Invalid dataset","","---------------------","Turn off advice by setting config.devHints.enable: false"].join(`
+`),console.warn(t);return}let l=n.filter(s=>s.test(r)).map(s=>s.message.join(`
+`)),a=l.length?l.join(`
+
+`):"✅ Your dataset is appropriate";if(a===t)return;t=a;let o="color: #888;font-weight: normal";console.info(["",`💬 ${i}`,"%cVue Data UI advice:%c","%c-------------------%c","",a,"","%c-------------------","Turn off advice by setting devHints.enable: false in the component's config%c"].join(`
+`),o,"",o,"",o,"")})}export{g as n,p as t};

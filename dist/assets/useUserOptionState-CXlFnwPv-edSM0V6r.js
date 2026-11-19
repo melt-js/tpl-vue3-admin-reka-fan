@@ -1,0 +1,1 @@
+import{x as o}from"./index-DiDe3wd8.js";import{C as a}from"./reactivity.esm-bundler-B9tEGtEp.js";function O({config:e}){let r=o(()=>e.userOptions.showOnChartHover),s=o(()=>e.userOptions.keepStateOnChartLeave),t=a(!e.userOptions.showOnChartHover);function i(n=!1){r.value&&(t.value=n)}return{userOptionsVisible:t,keepUserOptionState:s,setUserOptionsVisibility:i}}export{O as t};
