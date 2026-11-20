@@ -1,1 +1,0 @@
-import{_ as s}from"./useApi-CUWMwLLw-B30b774K.js";import{t as r}from"./settings-BOyRcT_S.js";function u(){const t=s(),e=r();function o(){e.setIsReloading(!0),t.push({name:"reload"}).then(()=>{setTimeout(()=>{e.setIsReloading(!1)},100)})}return{reload:o}}export{u as t};
