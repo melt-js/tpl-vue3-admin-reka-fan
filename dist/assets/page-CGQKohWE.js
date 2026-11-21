@@ -1,1 +1,0 @@
-import{_ as s}from"./useApi-CUWMwLLw-B_anM0dp.js";import{t as r}from"./settings-B4StBGd9.js";function u(){const t=s(),e=r();function o(){e.setIsReloading(!0),t.push({name:"reload"}).then(()=>{setTimeout(()=>{e.setIsReloading(!1)},100)})}return{reload:o}}export{u as t};
