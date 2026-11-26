@@ -1,0 +1,1 @@
+import{G as n,H as o}from"./index-B8x6VgMh.js";import{C as a}from"./reactivity.esm-bundler-B9tEGtEp.js";function i(){let t=a(!1);return n(()=>{let e=window.matchMedia("(prefers-reduced-motion: reduce)"),r=()=>{t.value=e.matches};r(),e.addEventListener("change",r),o(()=>{e.removeEventListener("change",r)})}),t}export{i as t};

@@ -1,0 +1,1 @@
+import{D as a,J as r,Q as o,S as n,lt as _}from"./index-B8x6VgMh.js";import{t as l}from"./_plugin-vue_export-helper-K9rsuiWd.js";var s={};function f(p,e){const t=o("FaPageMain");return r(),n(t,null,{default:_(()=>[...e[0]||(e[0]=[a(" 你能看到这个页面，说明你有访问权限。 ",-1)])]),_:1})}var i=l(s,[["render",f]]);export{i as default};

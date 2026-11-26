@@ -1,1 +1,0 @@
-import{r as a}from"./rolldown-runtime-Dwys_PaA.js";import{A as r,D as e,O as t}from"./index-3-vKsiWA.js";import{t as o}from"./_plugin-vue_export-helper-K9rsuiWd.js";var p=r({name:"JsxComp",setup(){return()=>t("div",{class:"test"},[e("这是一个用"),t("span",null,[e("JSX")]),e("编写的SFC组件。")])}}),m=a({default:()=>s}),s=o(p,[["__scopeId","data-v-544ad1b6"]]);export{m as n,s as t};
