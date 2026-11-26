@@ -1,1 +1,0 @@
-import{t as e}from"./rolldown-runtime-DK3Fl9T5-B4LfYq6V.js";import{J as a,w as r}from"./index-B8x6VgMh.js";import{B as t,wt as o}from"./reactivity.esm-bundler-B9tEGtEp.js";var s="3.28.12",l=e({default:()=>m}),i={"aria-hidden":"true"},m={__name:"PackageVersion",setup(n){return(p,c)=>(a(),r("desc",i,"Composed with Vue Data UI "+o(t(s)),1))}};export{m as n,l as t};
